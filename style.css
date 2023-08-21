@@ -1,0 +1,17 @@
+nav a #brand {
+    font-family: 'Merriweather', serif !important; 
+}
+
+.lorem p {
+    font-family: 'Merriweather', serif;
+}
+.hero {
+    background-color: rgb(233, 233, 233);
+    max-height: 1000px;
+
+}
+
+.porto {
+    background-color: rgb(233, 233, 233);
+
+}
